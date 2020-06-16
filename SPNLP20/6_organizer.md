@@ -26,7 +26,7 @@ name: 6
 * Parisa Kordjamshidi, Tulane University, USA
 * Amandla Mabona, University of Cambridge, UK
 * Pranava Madhyastha, Imperial College London, UK
-* Sebastian Mielke, Johns Hopkins University, USA
+* Sabrina Mielke, Johns Hopkins University, USA
 * Roi Reichart, Technion - Israel Institute of Technology, Israel
 * Marek Rei, University of Cambridge, UK
 * Stefan Riezler, Heidelberg University, Germany
@@ -37,9 +37,9 @@ name: 6
 * Luke Zettlemoyer, University of Washington, USA
 * Amr Sharaf, University of Maryland, USA
 * George Foster, Google AI Montreal, Canada
-*   Colin Cherry, Google AI Montreal, Canada
-*  Tim Vieira, Johns Hopkins University, USA
-*  Karthik Sankaranarayanan, IBM Research, India
-*   Maarten Versteegh, Huawei, Amsterdam
+* Colin Cherry, Google AI Montreal, Canada
+* Tim Vieira, Johns Hopkins University, USA
+* Karthik Sankaranarayanan, IBM Research, India
+* Maarten Versteegh, Booking.com, Amsterdam
 * Parag Jain, University of Edinburgh, UK
 * Alexander Schwing, UIUC, USA
